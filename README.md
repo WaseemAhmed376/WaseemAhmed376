@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05c19322-0ec6-4379-a0b3-7c5ca8a99932" width="100%" alt="Waseem Ahmed GitHub Banner">
+  <img src="https://github.com/user-attachments/assets/ba249f85-314b-4614-82a9-edc584589283" width="100%" alt="Waseem Ahmed GitHub Banner">
 </p>
 
 # Hi 👋, I'm Waseem Ahmed
