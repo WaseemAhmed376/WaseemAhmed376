@@ -1,10 +1,11 @@
-                                      # Hi 👋, I'm Waseem Ahmed
-
-                    ### 💻 Software Developer | Backend Engineering | Exploring AI
-
+<h1 align="center">Hi 👋, I'm Waseem Ahmed</h1>
+<h3 align="center">Software Developer • Backend Engineer • Python & FastAPI Specialist</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba249f85-314b-4614-82a9-edc584589283" width="100%" alt="Waseem Ahmed GitHub Banner">
 </p>
+---
+
+### 💻 About Me
 
 I'm a BS Information Technology graduate passionate about building useful software, solving real-world problems, and continuously improving my engineering skills.
 
