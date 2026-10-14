@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Agar banner image upload karlo toh yahan image ka link lagana, warna ye line hata sakte ho -->
-  <!-- <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Banner"> -->
+  <img src=" <img width="2752" height="1536" alt="Gemini_Generated_Image_duldu9duldu9duld" src="https://github.com/user-attachments/assets/05c19322-0ec6-4379-a0b3-7c5ca8a99932" />
+" width="100%" alt="Waseem Ahmed GitHub Banner">
 </p>
 
 # Hi 👋, I'm Waseem Ahmed
@@ -32,12 +32,17 @@ I'm a BS Information Technology graduate passionate about building useful softwa
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaseemAhmed376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waseem's GitHub Stats" />
-</p>
+- **[Trello Backend API](https://github.com/WaseemAhmed376/TRELLO)**: A task-management backend built with FastAPI and PostgreSQL, featuring secure authentication and robust architecture.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemAhmed376&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+More projects will be added as I continue learning and building.
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/WaseemAhmed376
+- LinkedIn: Add your LinkedIn profile URL here.
+
+⭐ Thanks for visiting my profile!
