@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=" <img width="2752" height="1536" alt="Gemini_Generated_Image_duldu9duldu9duld" src="https://github.com/user-attachments/assets/05c19322-0ec6-4379-a0b3-7c5ca8a99932" />
-" width="100%" alt="Waseem Ahmed GitHub Banner">
+  <img src="https://github.com/user-attachments/assets/05c19322-0ec6-4379-a0b3-7c5ca8a99932" width="100%" alt="Waseem Ahmed GitHub Banner">
 </p>
 
 # Hi 👋, I'm Waseem Ahmed
